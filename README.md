@@ -1,3 +1,2 @@
 # NeuroHydra
-NeuroHydra
 Нейросетевые рекомендации
